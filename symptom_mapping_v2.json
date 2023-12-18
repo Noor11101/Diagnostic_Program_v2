@@ -1,0 +1,36 @@
+{
+    "diseases": {
+    "covid19": [
+    "fever",
+    "headache",
+    "tiredness",
+    "sore throat",
+    "cough"
+    ],
+    "common cold": [
+    "stuffy nose",
+    "runny nose",
+    "sneezing",
+    "sore throat",
+    "cough"
+    ],
+    "flu": [
+    "fever",
+    "headache",
+    "tiredness",
+    "stuffy nose",
+    "sneezing",
+    "sore throat",
+    "cough",
+    "runny nose"
+],
+    "allergies": [
+    "headache",
+    "tiredness",
+    "stuffy nose",
+    "sneezing",
+    "cough",
+    "runny nose"
+]
+}
+}
